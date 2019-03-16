@@ -1,4 +1,4 @@
 public class SecondClass {
     int i = 10;
-    int j = 20;
+    int j = 5;
 }
